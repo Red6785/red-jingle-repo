@@ -28,7 +28,7 @@ If the series has been shortened, then the subtitle should also be shortened unl
 
 On top of this, the subtitle should be shortened in any case in which it is three words or longer, excluding fillers. For example, Paper Mario and the Thousand Year Door should become paper-mario-ttyd. However, Kirby and the Rainbow Curse would simply be written as kirby-and-the-rainbow-curse.
 
-Hyphenated words will be considered as two words. Spider-Man will be considered as "Spider Man". Filler words are any words that would not be capitalized if they were placed in the middle of a title.
+Hyphenated words will be considered as two words. Spider-Man will be considered as "Spider Man". Filler words are any words that would not be capitalized if they were placed in the middle of a title. If two titles inside the same folder share an acronym, then the last word of both games will be expanded. For example, on the GBA, Super Mario Bros. and Super Monkey Ball both expand to smb.wav. This would be resolved by changing it to smbros.wav and smball.wav.
 
 Then, move your jingles into `jingles/n3ds`, and edit the `index.json` in the root of the repository accordingly, adding a new entry in the json with this format:
 
