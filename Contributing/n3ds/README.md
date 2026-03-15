@@ -1,27 +1,17 @@
-"Want to add 3DS jingles to this repo, but don't know how? It's really simple!
-
-Fork the repository and we'll get started.
+# Want to add 3DS jingles to this repo, but don't know how? It's really simple!
 
 First, get your 3DS rom files ready. This means they'll need to be in either the .3ds or .cci file format. If you have .zcci, .z3ds, .cia, or .app, you will have to convert them into one of these two formats.
+Secondly, please install [Python](https://www.python.org/downloads/release/python-3143/) if you don't already have it.
 
-Then, you're going to need to download the tools [3dstool](https://github.com/dnasdw/3dstool) and [vgmstream](https://github.com/vgmstream/vgmstream-releases). Depending on the rom, I would highly recommend you have `python3`, and on Windows, python is required. We bundle the 3dstool and vgmstream binaries for Windows in the repository, so don't worry about it if you are running Windows!
+Do you know how to fork a repository and contribute to the original? If yes, move on. If no, 
 
-Once you have these installed, move all your ROMs into one folder. For ease of use, scripts are provided to extract your .wavs for you. (`extract_jingle.sh/bat` in the Contributing/n3ds directory of the repository. If you are using the .bat, then you also need to download `_sanitize.py`) Thank you to Celthium for providing the batchfile.
+- Download [Github Desktop](https://desktop.github.com/download/)
+- Sign into Github Desktop
+- Clone Repository from URL and input `Red6785/red-jingle-repo`, then navigate to wherever it saves the folder in your file manager.
 
-Then, move your jingles into `jingles/n3ds`, and edit the `index.json` in the root of the repository accordingly, adding a new entry in the json with this format:
+Navigate to Contributing/n3ds, you should see a folder called "games." Please put all of your 3ds ROMs here. Do not worry about accidentally uploading them to the repository, we have a .gitignore file to prevent tracking all 3ds ROM variants.
+Then run one of the two scripts (.bat for Windows, .sh for macOS and Linux), and watch the magic happen!
+The scripts will automatically extract all of your jingles, convert their name to the proper format, move them to the proper location, and then automatically update the index.json for you!
+Once it's done, click the "commit to main" button in the bottom left corner of your screen in GitHub Desktop, and you're golden!
 
-```:wq
-    { "game": "*game name as it appears in Cocoon*", "file": "jingles/n3ds/*your jingle here*.wav"},
-```
 
-For example,
-
-```
-    {"game": "Animal Crossing - New Leaf", "file": "jingles/n3ds/animal-crossing-new-leaf.wav"},
-```
-
-Please sort the games in alphabetical order.
-
-Once that's done, open a pull request, and you're done!
-
-Don't know how to make a pull request, but still want to add jingles? Contact me on Discord at `red6785`! I'll probably accept!
