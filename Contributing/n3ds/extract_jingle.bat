@@ -53,9 +53,7 @@ for %%f in ("%GAMES_DIR%\*.3ds" "%GAMES_DIR%\*.cci" "%GAMES_DIR%\*.app" "%GAMES_
 
         python -c "import struct;d=open('banner_dir/banner.bcwav','rb').read();s=struct.unpack('<I',d[12:16])[0];open('banner_dir/banner.bcwav','wb').write(d[:s])"
 
-        echo %%~nf> "%SCRIPT_DIR%\_name.txt"
-
-        call :process_banner
+        call :process_banner "%%~nf"
 
     ) else (
         echo [Error] No banner found in %%f
@@ -70,8 +68,6 @@ for %%f in ("%GAMES_DIR%\*.3ds" "%GAMES_DIR%\*.cci" "%GAMES_DIR%\*.app" "%GAMES_
     echo -------------------------------------------------------
 )
 
-if exist "%SCRIPT_DIR%\_name.txt" del "%SCRIPT_DIR%\_name.txt"
-
 echo Extraction Complete!
 pause
 goto :eof
@@ -79,8 +75,8 @@ goto :eof
 :process_banner
 setlocal enabledelayedexpansion
 
-for /f "delims=" %%s in ('python "%~dp0_sanitize.py"') do set "FINAL=%%s"
-for /f "delims=" %%t in ('python "%~dp0_game_title.py"') do set "GAME_TITLE=%%t"
+for /f "delims=" %%s in ('python "%~dp0_sanitize.py" "%~1"') do set "FINAL=%%s"
+for /f "delims=" %%t in ('python "%~dp0_game_title.py" "%~1"') do set "GAME_TITLE=%%t"
 
 "%VGM%" banner_dir\banner.bcwav -o "!JINGLES_DIR!\!FINAL!" >nul 2>&1
 echo [Success] Saved as: !FINAL! (Game: !GAME_TITLE!)
