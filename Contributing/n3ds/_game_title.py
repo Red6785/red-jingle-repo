@@ -1,6 +1,7 @@
 import re, unicodedata
 
-s = open('_name.txt', encoding='utf-8').read().strip()
+import locale
+s = open('_name.txt', encoding=locale.getpreferredencoding()).read().strip()
 s = unicodedata.normalize('NFKD', s)
 s = ''.join(c for c in s if not unicodedata.combining(c))
 s = s.encode('ascii', 'ignore').decode()
