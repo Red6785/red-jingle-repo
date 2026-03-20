@@ -1,5 +1,11 @@
 {
   "name": "Red's Jingles Pack",
+  "gba": [
+    {
+      "name": "Final Fantasy VI Advance",
+      "file": "jingles/gba/ffviadvance.wav"
+    }
+  ],
   "n3ds": [
     {
       "name": "Animal Crossing - New Leaf",
