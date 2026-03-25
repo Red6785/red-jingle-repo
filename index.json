@@ -8,6 +8,10 @@
   ],
   "n3ds": [
     {
+      "name": "Alliance Alive, The",
+      "file": "jingles/n3ds/alliance-alive-the.wav"
+    },
+    {
       "name": "Animal Crossing - New Leaf",
       "file": "jingles/n3ds/animal-crossing-new-leaf.wav"
     },
@@ -122,6 +126,10 @@
     {
       "name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
       "file": "jingles/n3ds/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.wav"
+    },
+    {
+      "name": "Legend of Legacy, The",
+      "file": "jingles/n3ds/legend-of-legacy-the.wav"
     },
     {
       "name": "Legend of Zelda, The - A Link Between Worlds",
@@ -244,6 +252,14 @@
       "file": "jingles/n3ds/shin-megami-tensei-devil-survivor-2-record-breaker.wav"
     },
     {
+      "name": "Shin Megami Tensei - Devil Survivor Overclocked",
+      "file": "jingles/n3ds/shin-megami-tensei-devil-survivor-overclocked.wav"
+    },
+    {
+      "name": "Shin Megami Tensei - Strange Journey Redux",
+      "file": "jingles/n3ds/shin-megami-tensei-strange-journey-redux.wav"
+    },
+    {
       "name": "Shin Megami Tensei IV",
       "file": "jingles/n3ds/shin-megami-tensei-iv.wav"
     },
@@ -254,6 +270,10 @@
     {
       "name": "Star Fox 64 3D",
       "file": "jingles/n3ds/star-fox-64-3d.wav"
+    },
+    {
+      "name": "Stella Glow",
+      "file": "jingles/n3ds/stella-glow.wav"
     },
     {
       "name": "Super Mario 3D Land",
@@ -298,6 +318,10 @@
     {
       "name": "Yoshi's New Island",
       "file": "jingles/n3ds/yoshis-new-island.wav"
+    },
+    {
+      "name": "Yu-Gi-Oh",
+      "file": "jingles/n3ds/yu-gi-oh.wav"
     },
     {
       "name": "Zero Escape - Virtue's Last Reward",
