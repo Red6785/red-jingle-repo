@@ -88,6 +88,18 @@
       "file": "jingles/n3ds/hey-pikmin.wav"
     },
     {
+      "name": "Inazuma Eleven 3 - Team Ogre Attacks",
+      "file": "jingles/n3ds/inazuma-eleven-3-team-ogre-attacks.wav"
+    },
+    {
+      "name": "Inazuma Eleven GO - Chrono Stones - Thunderflash",
+      "file": "jingles/n3ds/inazuma-eleven-go-chrono-stones-thunderflash.wav"
+    },
+    {
+      "name": "Inazuma Eleven Go - Light",
+      "file": "jingles/n3ds/inazuma-eleven-go-light.wav"
+    },
+    {
       "name": "Kid Icarus - Uprising",
       "file": "jingles/n3ds/kid-icarus-uprising.wav"
     },
@@ -106,6 +118,10 @@
     {
       "name": "Kirby's Extra Epic Yarn",
       "file": "jingles/n3ds/kirbys-extra-epic-yarn.wav"
+    },
+    {
+      "name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
+      "file": "jingles/n3ds/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.wav"
     },
     {
       "name": "Legend of Zelda, The - A Link Between Worlds",
@@ -212,8 +228,20 @@
       "file": "jingles/n3ds/professor-layton-vs-phoenix-wright-ace-attorney.wav"
     },
     {
+      "name": "Radiant Historia - Perfect Chronology",
+      "file": "jingles/n3ds/radiant-historia-perfect-chronology.wav"
+    },
+    {
       "name": "Rhythm Paradise Megamix",
       "file": "jingles/n3ds/rhythm-paradise-megamix.wav"
+    },
+    {
+      "name": "Shin Megami Tensei - Devil Summoner - Soul Hackers",
+      "file": "jingles/n3ds/shin-megami-tensei-devil-summoner-soul-hackers.wav"
+    },
+    {
+      "name": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker",
+      "file": "jingles/n3ds/shin-megami-tensei-devil-survivor-2-record-breaker.wav"
     },
     {
       "name": "Shin Megami Tensei IV",
