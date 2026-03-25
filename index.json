@@ -20,6 +20,10 @@
       "file": "jingles/n3ds/captain-toad-treasure-tracker.wav"
     },
     {
+      "name": "Code Name - S.T.E.A.M.",
+      "file": "jingles/n3ds/code-name-steam.wav"
+    },
+    {
       "name": "Cooking Mama - Sweet Shop",
       "file": "jingles/n3ds/cooking-mama-sweet-shop.wav"
     },
@@ -32,6 +36,30 @@
       "file": "jingles/n3ds/culdcept-revolt.wav"
     },
     {
+      "name": "Detective Pikachu",
+      "file": "jingles/n3ds/detective-pikachu.wav"
+    },
+    {
+      "name": "Dragon Ball Fusions",
+      "file": "jingles/n3ds/dragon-ball-fusions.wav"
+    },
+    {
+      "name": "Dragon Quest Monsters - Joker 3 Professional",
+      "file": "jingles/n3ds/dragon-quest-monsters-joker-3-professional.wav"
+    },
+    {
+      "name": "Dragon Quest Monsters - Terry no Wonderland 3D",
+      "file": "jingles/n3ds/dragon-quest-monsters-terry-no-wonderland-3d.wav"
+    },
+    {
+      "name": "Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi",
+      "file": "jingles/n3ds/dragon-quest-monsters-2-iru-to-ruka-no-fushigi-na-fushigi-na-kagi.wav"
+    },
+    {
+      "name": "Dragon Quest VIII - Journey of the Cursed King",
+      "file": "jingles/n3ds/dragon-quest-viii-journey-of-the-cursed-king.wav"
+    },
+    {
       "name": "Etrian Odyssey V - Beyond the Myth",
       "file": "jingles/n3ds/etrian-odyssey-v-beyond-the-myth.wav"
     },
@@ -42,6 +70,10 @@
     {
       "name": "Fire Emblem - Awakening",
       "file": "jingles/n3ds/fire-emblem-awakening.wav"
+    },
+    {
+      "name": "Fire Emblem Echoes - Shadows of Valentia",
+      "file": "jingles/n3ds/fire-emblem-echoes-shadows-of-valentia.wav"
     },
     {
       "name": "Fossil Fighters - Frontier",
