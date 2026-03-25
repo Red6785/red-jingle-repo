@@ -136,7 +136,7 @@
       "file": "jingles/n3ds/inazuma-eleven-go-chrono-stones-thunderflash.wav"
     },
     {
-      "name": "Inazuma Eleven Go - Light",
+      "name": "Inazuma Eleven GO - Light",
       "file": "jingles/n3ds/inazuma-eleven-go-light.wav"
     },
     {
@@ -206,10 +206,6 @@
     {
       "name": "Mario Kart 7",
       "file": "jingles/n3ds/mario-kart-7.wav"
-    },
-    {
-      "name": "Metal Gear Solid - Snake Eater 3D",
-      "file": "jingles/n3ds/metal-gear-solid-snake-eater-3d.wav"
     },
     {
       "name": "Metal Gear Solid 3D - Snake Eater",
