@@ -20,8 +20,16 @@
       "file": "jingles/n3ds/boxboy.wav"
     },
     {
+      "name": "Bravely Second - End Layer",
+      "file": "jingles/n3ds/bravely-second-end-layer.wav"
+    },
+    {
       "name": "Captain Toad - Treasure Tracker",
       "file": "jingles/n3ds/captain-toad-treasure-tracker.wav"
+    },
+    {
+      "name": "Castlevania - Lords of Shadow - Mirror of Fate",
+      "file": "jingles/n3ds/castlevania-lords-of-shadow-mirror-of-fate.wav"
     },
     {
       "name": "Code Name - S.T.E.A.M.",
@@ -64,8 +72,32 @@
       "file": "jingles/n3ds/dragon-quest-viii-journey-of-the-cursed-king.wav"
     },
     {
+      "name": "Etrian Mystery Dungeon",
+      "file": "jingles/n3ds/etrian-mystery-dungeon.wav"
+    },
+    {
+      "name": "Etrian Odyssey 2 Untold - The Fafnir Knight",
+      "file": "jingles/n3ds/etrian-odyssey-2-untold-the-fafnir-knight.wav"
+    },
+    {
+      "name": "Etrian Odyssey IV - Legends of the Titan",
+      "file": "jingles/n3ds/etrian-odyssey-iv-legends-of-the-titan.wav"
+    },
+    {
+      "name": "Etrian Odyssey Nexus",
+      "file": "jingles/n3ds/etrian-odyssey-nexus.wav"
+    },
+    {
+      "name": "Etrian Odyssey Untold - The Millennium Girl",
+      "file": "jingles/n3ds/etrian-odyssey-untold-the-millennium-girl.wav"
+    },
+    {
       "name": "Etrian Odyssey V - Beyond the Myth",
       "file": "jingles/n3ds/etrian-odyssey-v-beyond-the-myth.wav"
+    },
+    {
+      "name": "Ever Oasis",
+      "file": "jingles/n3ds/ever-oasis.wav"
     },
     {
       "name": "Fantasy Life",
@@ -78,6 +110,10 @@
     {
       "name": "Fire Emblem Echoes - Shadows of Valentia",
       "file": "jingles/n3ds/fire-emblem-echoes-shadows-of-valentia.wav"
+    },
+    {
+      "name": "Fire Emblem Fates - Limited Edition",
+      "file": "jingles/n3ds/fire-emblem-fates-limited-edition.wav"
     },
     {
       "name": "Fossil Fighters - Frontier",
@@ -172,6 +208,10 @@
       "file": "jingles/n3ds/mario-kart-7.wav"
     },
     {
+      "name": "Metal Gear Solid - Snake Eater 3D",
+      "file": "jingles/n3ds/metal-gear-solid-snake-eater-3d.wav"
+    },
+    {
       "name": "Metal Gear Solid 3D - Snake Eater",
       "file": "jingles/n3ds/metal-gear-solid-3d-snake-eater.wav"
     },
@@ -234,6 +274,14 @@
     {
       "name": "Professor Layton vs. Phoenix Wright - Ace Attorney",
       "file": "jingles/n3ds/professor-layton-vs-phoenix-wright-ace-attorney.wav"
+    },
+    {
+      "name": "Project X Zone",
+      "file": "jingles/n3ds/project-x-zone.wav"
+    },
+    {
+      "name": "Project X Zone 2",
+      "file": "jingles/n3ds/project-x-zone-2.wav"
     },
     {
       "name": "Radiant Historia - Perfect Chronology",
