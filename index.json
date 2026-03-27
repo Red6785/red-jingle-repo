@@ -20,8 +20,16 @@
       "file": "jingles/n3ds/animal-crossing-new-leaf.wav"
     },
     {
+      "name": "Batman - Arkham Origins Blackgate",
+      "file": "jingles/n3ds/batman-arkham-origins-blackgate.wav"
+    },
+    {
       "name": "BOXBOY!",
       "file": "jingles/n3ds/boxboy.wav"
+    },
+    {
+      "name": "Bravely Default",
+      "file": "jingles/n3ds/bravely-default.wav"
     },
     {
       "name": "Bravely Second - End Layer",
@@ -56,6 +64,10 @@
       "file": "jingles/n3ds/detective-pikachu.wav"
     },
     {
+      "name": "Dillon's Dead-Heat Breakers",
+      "file": "jingles/n3ds/dillons-dead-heat-breakers.wav"
+    },
+    {
       "name": "Dragon Ball Fusions",
       "file": "jingles/n3ds/dragon-ball-fusions.wav"
     },
@@ -74,6 +86,10 @@
     {
       "name": "Dragon Quest VIII - Journey of the Cursed King",
       "file": "jingles/n3ds/dragon-quest-viii-journey-of-the-cursed-king.wav"
+    },
+    {
+      "name": "Dragon Quest XI - Sugi Sarishi Toki o Motomete",
+      "file": "jingles/n3ds/dragon-quest-xi-sugi-sarishi-toki-o-motomete.wav"
     },
     {
       "name": "Etrian Mystery Dungeon",
@@ -228,6 +244,14 @@
       "file": "jingles/n3ds/paper-mario-sticker-star.wav"
     },
     {
+      "name": "Persona Q - Shadow of the Labyrinth",
+      "file": "jingles/n3ds/persona-q-shadow-of-the-labyrinth.wav"
+    },
+    {
+      "name": "Persona Q2 - New Cinema Labyrinth",
+      "file": "jingles/n3ds/persona-q2-new-cinema-labyrinth.wav"
+    },
+    {
       "name": "Pokemon Alpha Sapphire",
       "file": "jingles/n3ds/pokemon-alpha-sapphire.wav"
     },
@@ -316,6 +340,10 @@
       "file": "jingles/n3ds/shin-megami-tensei-iv.wav"
     },
     {
+      "name": "Shin Megami Tensei IV - Apocalypse",
+      "file": "jingles/n3ds/shin-megami-tensei-iv-apocalypse.wav"
+    },
+    {
       "name": "Shovel Knight Treasure Trove",
       "file": "jingles/n3ds/shovel-knight-treasure-trove.wav"
     },
@@ -370,6 +398,10 @@
     {
       "name": "Yoshi's New Island",
       "file": "jingles/n3ds/yoshis-new-island.wav"
+    },
+    {
+      "name": "Yu-Gi-Oh Duel Carnival",
+      "file": "jingles/n3ds/yu-gi-oh-duel-carnival.wav"
     },
     {
       "name": "Yu-Gi-Oh! Duel Monsters Saikyo Card Battle",
