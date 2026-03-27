@@ -8,6 +8,10 @@
   ],
   "n3ds": [
     {
+      "name": "7th Dragon III Code - VFD",
+      "file": "jingles/n3ds/7th-dragon-iii-code-vfd.wav"
+    },
+    {
       "name": "Alliance Alive, The",
       "file": "jingles/n3ds/alliance-alive-the.wav"
     },
