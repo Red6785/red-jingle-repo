@@ -382,6 +382,104 @@
       "file": "jingles/ps2/ffx.wav"
     }
   ],
+  "psp": [
+    {
+      "name": "Crisis Core - Final Fantasy VII",
+      "file": "jingles/psp/crisis-core-final-fantasy-vii.wav"
+    },
+    {
+      "name": "Daxter",
+      "file": "jingles/psp/daxter.wav"
+    },
+    {
+      "name": "Dissidia 012 - Duodecim Final Fantasy (USA) (En,Fr,De,Es,It)",
+      "file": "jingles/psp/dissidia-012-duodecim-final-fantasy.wav"
+    },
+    {
+      "name": "Final Fantasy - 20th Anniversary Edition",
+      "file": "jingles/psp/final-fantasy-20th-anniversary-edition.wav"
+    },
+    {
+      "name": "Final Fantasy II - 20th Anniversary Edition",
+      "file": "jingles/psp/final-fantasy-ii-20th-anniversary-edition.wav"
+    },
+    {
+      "name": "Final Fantasy III",
+      "file": "jingles/psp/final-fantasy-iii.wav"
+    },
+    {
+      "name": "Final Fantasy IV - The Complete Collection",
+      "file": "jingles/psp/final-fantasy-iv-the-complete-collection.wav"
+    },
+    {
+      "name": "God of War - Chains of Olympus",
+      "file": "jingles/psp/god-of-war-chains-of-olympus.wav"
+    },
+    {
+      "name": "God of War - Ghost of Sparta",
+      "file": "jingles/psp/god-of-war-ghost-of-sparta.wav"
+    },
+    {
+      "name": "Grand Theft Auto - Chinatown Wars",
+      "file": "jingles/psp/grand-theft-auto-chinatown-wars.wav"
+    },
+    {
+      "name": "Grand Theft Auto - Liberty City Stories",
+      "file": "jingles/psp/grand-theft-auto-liberty-city-stories.wav"
+    },
+    {
+      "name": "Grand Theft Auto - Vice City Stories",
+      "file": "jingles/psp/grand-theft-auto-vice-city-stories.wav"
+    },
+    {
+      "name": "Hatsune Miku - Project Diva 2nd",
+      "file": "jingles/psp/hatsune-miku-project-diva-2nd.wav"
+    },
+    {
+      "name": "Hatsune Miku - Project Diva Extend",
+      "file": "jingles/psp/hatsune-miku-project-diva-extend.wav"
+    },
+    {
+      "name": "Hatsune Miku - Project Diva",
+      "file": "jingles/psp/hatsune-miku-project-diva.wav"
+    },
+    {
+      "name": "Hot Wheels - Ultimate Racing",
+      "file": "jingles/psp/hot-wheels-ultimate-racing.wav"
+    },
+    {
+      "name": "Kingdom Hearts - Birth by Sleep",
+      "file": "jingles/psp/kingdom-hearts-birth-by-sleep.wav"
+    },
+    {
+      "name": "Metal Gear Solid - Portable Ops Plus (USA)",
+      "file": "jingles/psp/metal-gear-solid-portable-ops-plus.wav"
+    },
+    {
+      "name": "Monster Hunter Portable 3rd",
+      "file": "jingles/psp/monster-hunter-portable-3rd.wav"
+    },
+    {
+      "name": "Monster Hunter Portable",
+      "file": "jingles/psp/monster-hunter-portable.wav"
+    },
+    {
+      "name": "Need for Speed - ProStreet",
+      "file": "jingles/psp/need-for-speed-prostreet.wav"
+    },
+    {
+      "name": "Need for Speed - Undercover",
+      "file": "jingles/psp/need-for-speed-undercover.wav"
+    },
+    {
+      "name": "Ridge Racer",
+      "file": "jingles/psp/ridge-racer.wav"
+    },
+    {
+      "name": "Wipeout Pure",
+      "file": "jingles/psp/wipeout-pure.wav"
+    }
+  ],
   "psx": [
     {
       "name": "Final Fantasy IX",
