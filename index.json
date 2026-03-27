@@ -400,12 +400,12 @@
       "file": "jingles/n3ds/yoshis-new-island.wav"
     },
     {
-      "name": "Yu-Gi-Oh Duel Carnival",
-      "file": "jingles/n3ds/yu-gi-oh-duel-carnival.wav"
-    },
-    {
       "name": "Yu-Gi-Oh! Duel Monsters Saikyo Card Battle",
       "file": "jingles/n3ds/yu-gi-oh-duel-monsters-saikyo-card-battle.wav"
+    },
+    {
+      "name": "Yu-Gi-Oh! Zexal - Gekitotsu! Duel Carnival!",
+      "file": "jingles/n3ds/yu-gi-oh-zexal-gekitotsu-duel-carnival.wav"
     },
     {
       "name": "Zero Escape - Virtue's Last Reward",
