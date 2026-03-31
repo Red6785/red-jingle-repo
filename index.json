@@ -144,7 +144,7 @@
       "file": "jingles/n3ds/hatsune-miku-project-mirai-dx.wav"
     },
     {
-      "name": "Hey! Pikmin",
+      "name": "Hey Pikmin",
       "file": "jingles/n3ds/hey-pikmin.wav"
     },
     {
@@ -216,6 +216,10 @@
       "file": "jingles/n3ds/mario-luigi-dream-team.wav"
     },
     {
+      "name": "Mario & Luigi - Dream Team Bros.",
+      "file": "jingles/n3ds/mario-luigi-dream-team-bros.wav"
+    },
+    {
       "name": "Mario & Luigi - Paper Jam",
       "file": "jingles/n3ds/mario-luigi-paper-jam.wav"
     },
@@ -236,8 +240,16 @@
       "file": "jingles/n3ds/metroid-samus-returns.wav"
     },
     {
+      "name": "Minecraft - New Nintendo 3DS Edition",
+      "file": "jingles/n3ds/minecraft-new-nintendo-3ds-edition.wav"
+    },
+    {
       "name": "New Super Mario Bros. 2",
       "file": "jingles/n3ds/new-super-mario-bros-2.wav"
+    },
+    {
+      "name": "Nintendo Pocket Football Club Europe EnFrDeEsIt eShop",
+      "file": "jingles/n3ds/nintendo-pocket-football-club-europe-enfrdeesit-eshop.wav"
     },
     {
       "name": "Paper Mario - Sticker Star",
@@ -250,6 +262,10 @@
     {
       "name": "Persona Q2 - New Cinema Labyrinth",
       "file": "jingles/n3ds/persona-q2-new-cinema-labyrinth.wav"
+    },
+    {
+      "name": "Pilotwings Resort",
+      "file": "jingles/n3ds/pilotwings-resort.wav"
     },
     {
       "name": "Pokemon Alpha Sapphire",
@@ -286,6 +302,18 @@
     {
       "name": "Pokemon Y",
       "file": "jingles/n3ds/pokemon-y.wav"
+    },
+    {
+      "name": "Poochy & Yoshi's Woolly World",
+      "file": "jingles/n3ds/poochy-yoshis-woolly-world.wav"
+    },
+    {
+      "name": "Professeur Layton et l'Heritage des Aslantes",
+      "file": "jingles/n3ds/professeur-layton-et-lheritage-des-aslantes.wav"
+    },
+    {
+      "name": "Professeur Layton et le Masque des Miracles",
+      "file": "jingles/n3ds/professeur-layton-et-le-masque-des-miracles.wav"
     },
     {
       "name": "Professor Layton and the Azran Legacy",
@@ -350,6 +378,10 @@
     {
       "name": "Star Fox 64 3D",
       "file": "jingles/n3ds/star-fox-64-3d.wav"
+    },
+    {
+      "name": "Steel Diver",
+      "file": "jingles/n3ds/steel-diver.wav"
     },
     {
       "name": "Stella Glow",
