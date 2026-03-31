@@ -216,10 +216,6 @@
       "file": "jingles/n3ds/mario-luigi-dream-team.wav"
     },
     {
-      "name": "Mario & Luigi - Dream Team Bros.",
-      "file": "jingles/n3ds/mario-luigi-dream-team-bros.wav"
-    },
-    {
       "name": "Mario & Luigi - Paper Jam",
       "file": "jingles/n3ds/mario-luigi-paper-jam.wav"
     },
@@ -306,14 +302,6 @@
     {
       "name": "Poochy & Yoshi's Woolly World",
       "file": "jingles/n3ds/poochy-yoshis-woolly-world.wav"
-    },
-    {
-      "name": "Professeur Layton et l'Heritage des Aslantes",
-      "file": "jingles/n3ds/professeur-layton-et-lheritage-des-aslantes.wav"
-    },
-    {
-      "name": "Professeur Layton et le Masque des Miracles",
-      "file": "jingles/n3ds/professeur-layton-et-le-masque-des-miracles.wav"
     },
     {
       "name": "Professor Layton and the Azran Legacy",
