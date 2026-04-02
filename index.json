@@ -534,8 +534,64 @@
   ],
   "wii": [
     {
+      "name": "Arc Rise Fantasia",
+      "file": "jingles/wii/arc-rise-fantasia.wav"
+    },
+    {
+      "name": "Beat the Beat - Rhythm Paradise",
+      "file": "jingles/wii/beat-the-beat-rhythm-paradise.wav"
+    },
+    {
+      "name": "Call of Duty - Black Ops",
+      "file": "jingles/wii/call-of-duty-black-ops.wav"
+    },
+    {
+      "name": "Call of Duty - Modern Warfare 3",
+      "file": "jingles/wii/call-of-duty-modern-warfare-3.wav"
+    },
+    {
+      "name": "Castlevania Judgment",
+      "file": "jingles/wii/castlevania-judgment.wav"
+    },
+    {
+      "name": "Dragon Ball - Revenge of King Piccolo",
+      "file": "jingles/wii/dragon-ball-revenge-of-king-piccolo.wav"
+    },
+    {
+      "name": "DreamWorks Super Star Kartz",
+      "file": "jingles/wii/dreamworks-super-star-kartz.wav"
+    },
+    {
       "name": "Fire Emblem - Radiant Dawn",
       "file": "jingles/wii/fire-emblem-radiant-dawn.wav"
+    },
+    {
+      "name": "GoldenEye 007",
+      "file": "jingles/wii/goldeneye-007.wav"
+    },
+    {
+      "name": "GTI Club Supermini Festa",
+      "file": "jingles/wii/gti-club-supermini-festa.wav"
+    },
+    {
+      "name": "Guilty Gear XX Accent Core",
+      "file": "jingles/wii/guilty-gear-xx-accent-core.wav"
+    },
+    {
+      "name": "Harvest Moon - Animal Parade",
+      "file": "jingles/wii/harvest-moon-animal-parade.wav"
+    },
+    {
+      "name": "Harvest Moon - Magical Melody",
+      "file": "jingles/wii/harvest-moon-magical-melody.wav"
+    },
+    {
+      "name": "Harvest Moon - Tree of Tranquility",
+      "file": "jingles/wii/harvest-moon-tree-of-tranquility.wav"
+    },
+    {
+      "name": "Klonoa",
+      "file": "jingles/wii/klonoa.wav"
     },
     {
       "name": "Last Story, The",
@@ -546,6 +602,10 @@
       "file": "jingles/wii/mario-kart-wii.wav"
     },
     {
+      "name": "Mario Sports Mix",
+      "file": "jingles/wii/mario-sports-mix.wav"
+    },
+    {
       "name": "Metroid - Other M",
       "file": "jingles/wii/metroid-other-m.wav"
     },
@@ -554,8 +614,20 @@
       "file": "jingles/wii/metroid-prime-trilogy.wav"
     },
     {
+      "name": "Munchables, The",
+      "file": "jingles/wii/munchables-the.wav"
+    },
+    {
       "name": "Muramasa - The Demon Blade",
       "file": "jingles/wii/muramasa-the-demon-blade.wav"
+    },
+    {
+      "name": "Naruto - Clash of Ninja Revolution",
+      "file": "jingles/wii/naruto-clash-of-ninja-revolution.wav"
+    },
+    {
+      "name": "Need for Speed - Nitro",
+      "file": "jingles/wii/need-for-speed-nitro.wav"
     },
     {
       "name": "New Super Mario Bros. Wii",
@@ -576,6 +648,10 @@
     {
       "name": "Rhythm Heaven Fever",
       "file": "jingles/wii/rhythm-heaven-fever.wav"
+    },
+    {
+      "name": "SpongeBob's Truth or Square",
+      "file": "jingles/wii/spongebobs-truth-or-square.wav"
     },
     {
       "name": "Super Mario Galaxy",
